@@ -1,0 +1,3 @@
+Mavel - Build Tool
+jenkins - CI/CD  Server 
+Git and GitHub ; 
