@@ -2,3 +2,10 @@ Edit Changes to for Sample Project
 Git and Git Hub -- Central and Local repositery
 Maven ---- Build tool
 Jenkins--  CI/CD Server
+Jenkins Project
+Maven
+Git
+Jenkins
+Git Hub
+developers push code to Git hub 
+Jenkins Pull the new Changes from Git hub
